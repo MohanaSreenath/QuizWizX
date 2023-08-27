@@ -45,3 +45,4 @@ Contributions and improvements to the Automated Quiz System project are welcome.
 
 **Disclaimer:**
 This project is for educational purposes and showcases the integration of Python with SQLite 3 for building an automated quiz platform. It is not intended for commercial use without proper modification and security considerations.
+ done by ACHYUTH , MOHAN ,DWITHEJ 
